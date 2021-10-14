@@ -1,4 +1,5 @@
-{{"n": {"identity": 0,"labels": ["Migration2"],"properties": {"submitter": "","link": "","publishDate": "","submissionDate": "","title": "Understanding migration","crawled_content": "Still Crawling","url": "","tags": "How to migrate data","imageLink": "","indexDate": "","domain": "","ID": "1"}}}
+{
+{"n": {"identity": 0,"labels": ["Migration2"],"properties": {"submitter": "","link": "","publishDate": "","submissionDate": "","title": "Understanding migration","crawled_content": "Still Crawling","url": "","tags": "How to migrate data","imageLink": "","indexDate": "","domain": "","ID": "1"}}}
 {"n": {"identity": 1,"labels": ["Migration2"],"properties": {"submitter": "","link": "","publishDate": "","submissionDate": "","title": "Understanding migration","crawled_content": "Still Crawling","url": "","tags": "How to migrate data","imageLink": "","indexDate": "","domain": "","ID": "1"}}}
 {"n": {"identity": 2,"labels": ["Migration1"],"properties": {"submitter": "","link": "","publishDate": "","submissionDate": "","title": "Understanding migration","crawled_content": "Still Crawling","url": "","tags": "How to migrate data","imageLink": "","indexDate": "","domain": "","ID": "1"}}}
 }
